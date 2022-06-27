@@ -5,7 +5,25 @@
 * Created          : June 2022
 * File Description : Main css file of the template
 *---------------------------------------------------------*/
+/*====  RESET ============================ */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600|Nunito:400,600,700');
 
