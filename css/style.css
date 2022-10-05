@@ -229,7 +229,7 @@ button:focus {
 
 .custom-nav .navbar-nav li a {
     color: #fff !important;
-    font-size: 1.5px;
+    font-size: 1.5rem;
     background-color: transparent !important;
     margin: 0 7px;
     letter-spacing: 0.05em;
