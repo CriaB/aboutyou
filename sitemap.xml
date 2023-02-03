@@ -1,16 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--
+ created with Free Online Sitemap Generator www.xml-sitemaps.com 
+-->
 <url>
-  <loc>https://www.aboutyou.net.br/</loc>
-  <lastmod>2022-06-27T21:38:49+00:00</lastmod>
+<loc>https://www.aboutyou.net.br/</loc>
+<lastmod>2023-02-03T17:39:03+00:00</lastmod>
+<priority>1.00</priority>
 </url>
-
-
+<url>
+<loc>https://www.aboutyou.net.br/blog_home.html</loc>
+<lastmod>2023-02-03T17:39:03+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.aboutyou.net.br/index.html</loc>
+<lastmod>2023-02-03T17:39:03+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>
+https://www.aboutyou.net.br/blog/petshop/como%20aprimorar%20atendimento%20cliente%20pet%20shop.html
+</loc>
+<lastmod>2023-02-03T17:39:03+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>
+https://www.aboutyou.net.br/blog/petshop/Como%20atrair%20mais%20clientes%20para%20seu%20Pet%20Shop.html
+</loc>
+<lastmod>2023-02-03T17:39:03+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>
+https://www.aboutyou.net.br/blog/petshop/Como%20aumentar%20a%20convers%C3%A3o%20na%20sua%20loja%20de%20petshop%20estrategias%20inovadoras%20eficientes.html
+</loc>
+<lastmod>2023-02-03T17:39:03+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>
+https://www.aboutyou.net.br/blog/petshop/como%20aumentar%20venda%20pet%20shop%20banho%20e%20tosa%20usando%20tecnologia.html
+</loc>
+<lastmod>2023-02-03T17:39:03+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>
+https://www.aboutyou.net.br/blog/petshop/Personaliza%C3%A7%C3%A3o%20da%20Experi%C3%AAncia%20de%20Compra%20para%20Pet%20Shops.html
+</loc>
+<lastmod>2023-02-03T17:39:03+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>
+https://www.aboutyou.net.br/blog/Consultoria%20Ambiental/5%20erros%20comuns%20na%20constru%C3%A7%C3%A3o%20de%20presen%C3%A7a%20digital%20para%20empresas%20de%20consultoria%20ambiental.html
+</loc>
+<lastmod>2023-02-03T17:39:03+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>
+https://www.aboutyou.net.br/blog/Consultoria%20Ambiental/Por%20que%20sua%20empresa%20de%20consultoria%20ambiental%20precisa%20de%20uma%20presen%C3%A7a%20digital%20forte.html
+</loc>
+<lastmod>2023-02-03T17:39:03+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>
+https://www.aboutyou.net.br/blog/marketing_digital/marketing_digital_chave_sucesso_empresas_brasileiras.html
+</loc>
+<lastmod>2023-02-03T17:39:03+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>
+https://www.aboutyou.net.br/blog/pesquisa_de_mercado_b2b/a_Importancia%20_da_pesquisa_de_mercado_para_empresas_b2b.html
+</loc>
+<lastmod>2023-02-03T17:39:03+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>
+https://www.aboutyou.net.br/blog/pesquisa_de_mercado_b2b/metodologias_de_pesquisa_B2B__como_conseguir_resultados_eficientes.html
+</loc>
+<lastmod>2023-02-03T17:39:03+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>
+https://www.aboutyou.net.br/blog/pesquisa_de_mercado_b2b/pesquisa_de%20_mercado_para_empresas_B2B_conhe%C3%A7a_as_vantagens_e_dicas_para_uma_efici%C3%AAncia_maior.html
+<lastmod>2023-02-03T17:39:03+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>
+https://www.aboutyou.net.br/blog/marketing/branding_por_que_e_importante_para_sucesso_de_uma_empresa.html
+</loc>
+<lastmod>2023-02-03T17:39:03+00:00</lastmod>
+<priority>0.64</priority>
+</url>
 </urlset>
