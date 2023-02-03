@@ -5,25 +5,7 @@
 * Created          : June 2022
 * File Description : Main css file of the template
 *---------------------------------------------------------*/
-/*====  RESET ============================ */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 
-ul {
-  list-style: none;
-}
-
-a {
-  text-decoration: none;
-}
-
-img {
-  width: 100%;
-  height: auto;
-}
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600|Nunito:400,600,700');
 
@@ -182,7 +164,7 @@ button:focus {
 .btn-custom:focus,
 .btn-custom:hover,
 .open > .dropdown-toggle.btn-custom {
-    color: #f3f3f3;
+    color: #46318d;
 }
 
 .btn-outline-custom {
@@ -192,8 +174,8 @@ button:focus {
 .btn-outline-custom:hover,
 .btn-outline-custom:focus,
 .btn-outline-custom:active,
-.btn-outline-custom.active,
-.btn-outline-custom.focus,
+.btn-outline-custom:active,
+.btn-outline-customfocus,
 .btn-outline-custom:active,
 .btn-outline-custom:focus,
 .btn-outline-custom:hover,
@@ -212,7 +194,6 @@ button:focus {
     height: 100%;
 }
 
-
 /*==========================
         3.NAVBAR CUSTOM
 ============================*/
@@ -229,7 +210,7 @@ button:focus {
 
 .custom-nav .navbar-nav li a {
     color: #fff !important;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     background-color: transparent !important;
     margin: 0 7px;
     letter-spacing: 0.05em;
@@ -266,7 +247,7 @@ button:focus {
 
 .custom-nav .navbar-toggler {
     color: #fff;
-    font-size: 35px;
+    font-size: 130px;
     padding: 0px;
 }
 
@@ -281,12 +262,13 @@ button:focus {
 }
 
 
+
 /*===========================
         4.HOME
 =============================*/
 
 .header-bg-img {
-    background-image: url(../images/header-bg.webp);
+    background-image: url(../images/header-bg.png);
     position: relative;
     background-size: cover;
     background-position: center center;
